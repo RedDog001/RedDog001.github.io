@@ -12,5 +12,5 @@ Petru Zubek
     Favorite quote:
     "Quote"
 
-    Countries visited:
-    Romania
+    States visited:
+    Connecticut
