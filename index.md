@@ -8,3 +8,9 @@ Petru Zubek
     At IMPACT, I work with various Earth Science data, products and algorithms.
 
     When I'm not working, I like reading and camping.
+
+    Favorite quote:
+    "Quote"
+
+    Countries visited:
+    Romania
