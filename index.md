@@ -13,4 +13,4 @@
     "Quote"
 
     Countries visited:
-    Romania
+    - Romania
